@@ -1,7 +1,7 @@
 ### Olá, me chamo Lucas Brito
 
 - 🔭 Desenvolvedor Back-end.
-- 🌱 Atualmente, estudando Java.
+- 🌱 Atualmente, trabalhando com Java.
 - 📫 Email: lucasdebrito95@gmail.com
 
  <div>
